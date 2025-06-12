@@ -1,4 +1,7 @@
 ## Hi there 👋
+## name Ardak
+## I from Kazahstan
+
 
 <!--
 **Macsiloid/macsiloid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
