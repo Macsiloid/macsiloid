@@ -1,6 +1,11 @@
 ## Hi there 👋
 ## name Ardak
 ## I from Kazahstan
+-contact 
+-price
+-total
+-status
+
 
 
 <!--
